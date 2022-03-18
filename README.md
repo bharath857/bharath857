@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Bharath
+
+Getting started....
+yet to come
 
 <!--
 **bharath857/bharath857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
